@@ -1,0 +1,10 @@
+[Download Git](https://www.git-scm.com/downloads)
+
+Comandos aprendidos durante o desafio
+
+
+$ git config --global user.name Configurar nome de usuário
+$ git config --global user.email Configurar email de usuário
+$ git init Inicializa um repositório
+cd (caminho para pasta)
+$ git status Exibe a branch atual e o status de commits
