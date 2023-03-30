@@ -3,8 +3,13 @@
 Comandos aprendidos durante o desafio
 
 
-$ git config --global user.name Configurar nome de usuário
-$ git config --global user.email Configurar email de usuário
-$ git init Inicializa um repositório
-cd (caminho para pasta)
-$ git status Exibe a branch atual e o status de commits
+- $ git config --global user.name Configurar nome de usuário
+- $ git config --global user.email Configurar email de usuário
+- $ git init Inicializa um repositório
+- cd (caminho para pasta)
+- $ git status Exibe a branch atual e o status de commits
+- $ git add . Adiciona o conteúdo dos arquivos ao índice
+- $ git commit -m "Adição de arquivo Anotações.txt" 
+Grava as alterações para o repositório com mensagem para identificar o que foi alterado.
+- $ git push origin main 
+Onde git push inicia o push, origin refere-se à contraparte remota do projeto e main é o nome do branch.
