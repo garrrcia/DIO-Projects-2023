@@ -2,6 +2,9 @@
 
 Repositório criado para compartilhar suas anotações e exercícios do bootcamp Microsoft Dynamics 365
 
+<img src="https://user-images.githubusercontent.com/64616918/228927603-7e8878e3-c04f-4018-89b4-753b05d4c184.png" width="400" height="200" />
+
+
 ## 🔎 Links úteis ##
 
 - [Sobre Microsoft Dynamics 365](https://dynamics.microsoft.com/pt-br/)
