@@ -1,0 +1,15 @@
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.exe
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.deps.json
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.dll
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.pdb
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.dll
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\obj\Debug\net7.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.pdb
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\renat\OneDrive\Área de Trabalho\DIO\DIO-Projects-2023\DesafioProjetoHospedagem\obj\Debug\net7.0\ref\DesafioProjetoHospedagem.dll

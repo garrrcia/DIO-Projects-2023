@@ -1,0 +1,81 @@
+Suítes
+
+Nome da Suíte :Apartamento Jardim
+Capacidade Máxima da Suíte: 3 adultos
+Descrição da Suíte:Apartamentos com área de 45m² e uma ampla varanda de vista lateral do empreendimento. 
+Comodidades da Suíte:TV por assinatura, cofre eletrônico, rádio-relógio, frigobar, 
+máquina de café expresso, telefone, secador de cabelo, ducha quente e fria, ar condicionado e porta-malas. 
+Valor da Diária: R$ 2.486,00
+
+Nome da Suíte : Apartamento Vista Mar
+Capacidade Máxima da Suíte: 3 adultos
+Descrição da Suíte:Unidades com duas amplas varandas (lateral e frontal) de onde se pode apreciar uma incrível vista do mar de Muro Alto. 
+Comodidades da Suíte: V por assinatura, cofre eletrônico, rádio-relógio, frigobar, máquina de café expresso, telefone, ducha quente e fria, secador de cabelo, ar condicionado e porta-malas. 
+Valor da Diária: R$ 4.023,00
+
+Nome da Suíte : Bangalô Jardim
+Capacidade Máxima da Suíte: 3 adultos
+Descrição da Suíte: Bangalôs independentes, desenhados para oferecer conforto, 
+tranqüilidade e privacidade. Com área de 64m2 distribuídos entre lâminas d'água e jardins, possuem varanda espaçosa e piscina privativa de profundidade variada. Um ambiente de estar aconchegante composto de sofá e conjunto de mesa e cadeiras mescla-se com o quarto do casal.
+Comodidades da Suíte:TV por assinatura, ar condicionado, rádio-relógio, banheira e ducha (independente), secador de cabelo, telefone, frigobar, máquina de café expresso e cofre eletrônico.
+Valor da Diária: R$ 3.853,00 
+
+
+Nome da Suíte : Bangalô Beira Mar
+Capacidade Máxima da Suíte: 3 adultos
+Descrição da Suíte:Unidades situadas à beira-mar, totalmente independentes, desenhados para oferecer conforto, tranqüilidade e privacidade para seus ocupantes. Possuem uma área de 64m2, com ampla varanda de vista privilegiada, piscina privativa de profundidade variada e gazebo particular. Um ambiente de estar acolhedor composto de conjunto de mesa e cadeiras mescla-se com o quarto do casal
+Comodidades da Suíte: TV por assinatura, ar condicionado, sofá-cama, rádio-relógio, banheira e ducha (independente), secador de cabelo, telefone, frigobar, máquina de café expresso e cofre eletrônico.
+Valor da Diária: R$ 4.833,00
+
+Nome da Suíte : Suite Villa
+Capacidade Máxima da Suíte: 3 adultos
+Descrição da Suíte: Suítes com 90m², possuem um amplo espaço integrado ao jardim e piscina particular, voltadas para casais que procuram exclusividade, aconchego e sofisticação. A acomodação oferece sala com banheiro e quarto amplo com cama super king, closet e banheiro com banheira e dois chuveiros, sendo um deles em pátio a céu aberto, além de dois acessos independentes.
+Comodidades da Suíte: Possuem piscina com hidromassagem e gazebo, terraço com day bed, mini copa auxiliar com micro-ondas, máquina de café expresso, adega, duas TV’s, produtos L’Occitane e uma programação exclusiva de amenities.
+Valor da Diária: R$  5.023,00
+
+Nome da Suíte : Bangalô Master
+Capacidade Máxima da Suíte: 3 adultos
+Descrição da Suíte:Ideal para aqueles que buscam combinação entre conforto, privacidade e estilo. São unidades duplex localizadas à beira-mar. No térreo, lavabo e uma sala climatizada de decoração aconchegante e equipada com home-theater, TV 42”, além de contar com piscina privativa com hidromassagem no interior da sala de estar, jardim e gazebo privados. 
+Comodidades da Suíte:  TV, ar condicionado, rádio-relógio, frigobar, máquina de café expresso, telefone e banheiro com secador de cabelo, ducha independente e banheira com vista para o mar.
+Valor da Diária: R$ 6.926,00
+
+Nome da Suíte : Bangalô Vista Mar
+Capacidade Máxima da Suíte: 3 adultos
+Descrição da Suíte:Unidades com vista parcial do mar, totalmente independentes, desenhados para oferecer conforto e tranquilidade para seus ocupantes.Possuem uma area de 64m2, com ampla varanda, piscina privativa de profundidade variada e gazebo. Um ambiente aconchegante composto por conjunto de mesa para refeição, poltronas de leitura mesclam-se com o quarto do casal. 
+Comodidades da Suíte:TV LED, canais por assinatura, ar-condicionado, frigobar, máquina de espresso, radio-relogio com bluetooth, banheira, ducha independente e secador de cabelo. 
+Valor da Diária: R$ 4.323,00
+
+Classe Pessoa
+
+Nome:String
+Sobrenome:string
+Profissão:string
+CPF:int
+Email:string
+
+Classe Suíte
+
+Nome/Tipo da Suíte: String
+Capacidade Máxima da Suíte: int 
+Descrição da Suíte: String
+Comodidades da Suíte: string
+Valor da Diária: decimal
+
+Classe Reserva
+
+Ligação entre as classes Pessoa e Suíte
+
+Hóspedes: List<Pessoa> - Propriedade
+Suíte: Suíte - Propriedade
+DiasReservados: int - Propriedade
+
+void CadastrarHospedes(List<Pessoa> Hospedes) - Método
+void CadastrarSuite(Suite suite) - Método
+int ObterQuantidadeHospedes() - Método
+decimal CalcularValorDiaria() - Método (DiasReservados * Valor da Diária)
+Se reservar uma súite por um perído de 10 dias ou mais, 
+o valor da reserva tem desconto de 10%
+
+Validar a qauntidade de hóspidos por suíte
+
+Fazer Diagrama
